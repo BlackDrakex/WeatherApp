@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "48a5b8c3f04c01014bed",
-    "url": "/WeatherApp/static/js/main.48a5b8c3.chunk.js"
+    "revision": "be0dbe78cd33b8a65f8e",
+    "url": "/WeatherApp/static/js/main.be0dbe78.chunk.js"
   },
   {
     "revision": "9d064671a7eaa16acd55",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/WeatherApp/static/js/runtime~main.a65dfe9f.js"
   },
   {
-    "revision": "c89f9125a0bf6188ddcf47a474da769a",
+    "revision": "7a100d3ec763a5d6c415469146ea3848",
     "url": "/WeatherApp/index.html"
   }
 ];
